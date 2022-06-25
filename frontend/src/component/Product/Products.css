@@ -1,0 +1,13 @@
+.filterBox{
+    width: 10vmax;
+   
+}
+
+.paginationBox{
+    padding-left: 300px;
+}
+
+.category-link{
+    list-style: none;
+    cursor: pointer;
+}
